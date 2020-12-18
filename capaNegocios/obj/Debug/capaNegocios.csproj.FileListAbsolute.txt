@@ -1,0 +1,11 @@
+C:\Users\kevin\source\repos\capaPresentacion\capaNegocios\bin\Debug\capaNegocios.dll
+C:\Users\kevin\source\repos\capaPresentacion\capaNegocios\bin\Debug\capaNegocios.pdb
+C:\Users\kevin\source\repos\capaPresentacion\capaNegocios\bin\Debug\capaDatos.dll
+C:\Users\kevin\source\repos\capaPresentacion\capaNegocios\bin\Debug\capaEntidad.dll
+C:\Users\kevin\source\repos\capaPresentacion\capaNegocios\bin\Debug\capaDatos.pdb
+C:\Users\kevin\source\repos\capaPresentacion\capaNegocios\bin\Debug\capaEntidad.pdb
+C:\Users\kevin\source\repos\capaPresentacion\capaNegocios\obj\Debug\capaNegocios.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\capaPresentacion\capaNegocios\obj\Debug\capaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\capaPresentacion\capaNegocios\obj\Debug\capaNegocios.csproj.CopyComplete
+C:\Users\kevin\source\repos\capaPresentacion\capaNegocios\obj\Debug\capaNegocios.dll
+C:\Users\kevin\source\repos\capaPresentacion\capaNegocios\obj\Debug\capaNegocios.pdb

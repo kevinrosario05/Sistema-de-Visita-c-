@@ -1,0 +1,6 @@
+C:\Users\kevin\source\repos\capaPresentacion\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\kevin\source\repos\capaPresentacion\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\kevin\source\repos\capaPresentacion\capaEntidad\obj\Debug\capaEntidad.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\capaPresentacion\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\capaPresentacion\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\kevin\source\repos\capaPresentacion\capaEntidad\obj\Debug\capaEntidad.pdb
